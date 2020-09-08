@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Vuetify
+- 💬 Ask me about VueJS
+- 📫 How to reach me: @tomearly2
+
 <!--
 **tomearly/tomearly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
