@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- Ask me about VueJS (💬 )
+- Ask me about VueJS (💬 ), Vuetify
 - How to reach me: @tomearly2 (📫 )
